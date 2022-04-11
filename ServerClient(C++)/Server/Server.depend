@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530105511 source:c:\users\alan.crvenabanana\desktop\programiranje\serverclient(c++)\server\main.cpp
+	<iostream>
+	<stdio.h>
+	<ws2tcpip.h>
+	<WinSock2.h>
+	<windows.h>
+	<string>
+

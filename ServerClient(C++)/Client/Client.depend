@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526496783 source:c:\users\alan.crvenabanana\desktop\programiranje\client\main.cpp
+	<iostream>
+	<stdio.h>
+	<ws2tcpip.h>
+	<WinSock2.h>
+	<windows.h>
+	<string>
+
+1526648639 source:c:\users\alan.crvenabanana\desktop\programiranje\serverclient(c++)\client\main.cpp
+	<iostream>
+	<stdio.h>
+	<ws2tcpip.h>
+	<WinSock2.h>
+	<windows.h>
+	<string>
+
